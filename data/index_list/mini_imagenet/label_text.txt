@@ -1,0 +1,100 @@
+n03476684 hair slide
+n02966193 carousel
+n04596742 wok
+n03924679 photocopier
+n01910747 jellyfish
+n03854065 organ
+n02120079 Arctic fox
+n03017168 chime
+n04443257 tobacco shop
+n04243546 slot
+n04275548 spider web
+n03062245 cocktail shaker
+n04515003 upright
+n13133613 ear
+n04509417 unicycle
+n02108089 boxer
+n07584110 consomme
+n01558993 robin
+n02606052 rock beauty
+n04296562 stage
+n01532829 house finch
+n02457408 three-toed sloth
+n04435653 tile roof
+n02108915 French bulldog
+n01770081 harvestman
+n01749939 green mamba
+n03207743 dishrag
+n02111277 Newfoundland
+n01704323 triceratops
+n02795169 barrel
+n03337140 file
+n02113712 miniature poodle
+n03047690 clog
+n04389033 tank
+n02091831 Saluki
+n07697537 hotdog
+n04612504 yawl
+n02089867 Walker hound
+n03676483 lipstick
+n03998194 prayer rug
+n04604644 worm fence
+n03347037 fire screen
+n03400231 frying pan
+n04067472 reel
+n02165456 ladybug
+n03838899 oboe
+n09246464 cliff
+n02823428 beer bottle
+n03527444 holster
+n02101006 Gordon setter
+n03908618 pencil box
+n02747177 ashcan
+n02074367 dugong
+n02105505 komondor
+n07747607 orange
+n13054560 bolete
+n02687172 aircraft carrier
+n03220513 dome
+n02108551 Tibetan mastiff
+n03888605 parallel bars
+n04258138 solar dish
+n01843383 toucan
+n04251144 snorkel
+n06794110 street sign
+n01855672 goose
+n02174001 rhinoceros beetle
+n02981792 catamaran
+n03075370 combination lock
+n03584254 iPod
+n03773504 missile
+n03980874 poncho
+n03535780 horizontal bar
+n03770439 miniskirt
+n02138441 meerkat
+n02091244 Ibizan hound
+n03417042 garbage truck
+n02114548 white wolf
+n02971356 carton
+n09256479 coral reef
+n02950826 cannon
+n03544143 hourglass
+n03127925 crate
+n03146219 cuirass
+n04418357 theater curtain
+n02110063 malamute
+n07613480 trifle
+n02116738 African hunting dog
+n03775546 mixing bowl
+n02443484 black-footed ferret
+n01930112 nematode
+n02099601 golden retriever
+n02129165 lion
+n02871525 bookshop
+n03272010 electric guitar
+n04149813 scoreboard
+n02219486 ant
+n04522168 vase
+n02110341 dalmatian
+n04146614 school bus
+n01981276 king crab
