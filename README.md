@@ -1,5 +1,6 @@
 ### Introduction
 
+Code for Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning in IEEE TPAMI (EARLY ACCESS).
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Copyright](https://img.shields.io/badge/Copyright-CVTEAM-red)
