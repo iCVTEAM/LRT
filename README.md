@@ -4,7 +4,10 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Copyright](https://img.shields.io/badge/Copyright-CVTEAM-red)
 
-<img src="https://github.com/iCVTEAM/LRT/blob/master/teaser.jpg" width = "600" height = "300" align=center />
+<div align="center">
+
+<img src="https://github.com/iCVTEAM/LRT/blob/master/teaser.jpg" width = "600" height = "400" align=center />
+</div>
 
 
 Depicting novel classes with language descriptions by observing few-shot samples is inherent in human learning systems. This lifelong learning capability helps to distinguish new knowledge from old ones through the increase of open-world learning, namely Few-Shot Class-Incremental Learning (FSCIL). Existing works to solve this problem mainly rely on the careful tuning of visual encoders, which shows an evident trade-off between the base knowledge and incremental ones. Motivated by human learning systems, we propose a new Language-inspired Relation Transfer (LRT) paradigm to understand objects by joint visual clues and text depictions, composed of two major steps. We first transfer the pretrained text knowledge to the visual domains by proposing a graph relation transformation module and then fuse the visual and language embedding by a text-vision prototypical fusion module. Second, to mitigate the domain gap caused by visual finetuning, we propose context prompt learning for fast domain alignment and imagined contrastive learning to alleviate the insufficient text data during alignment. With collaborative learning of domain alignments and text-image transfer, our proposed LRT outperforms the state-of-the-art models by over 13% and 7% on the final session of mini ImageNet and CIFAR-100 FSCIL benchmarks.
