@@ -29,8 +29,11 @@ PyTorch>=1.1, tqdm, torchvsion.
     For miniImageNet dataset from other sharing links in [CEC](https://github.com/icoz69/CEC-CVPR2021), Click [links](https://drive.google.com/drive/folders/11LxZCQj2FRCs0JTsf_dafvTHqFn2yGSN?usp=sharing)  to download.
     For ImageNet100 dataset from other sharing links in [links](https://www.kaggle.com/datasets/ambityga/imagenet100/data) to download.
 
-2. Modify the lines in train.py from 3~5 [links]()
-3. unzip these datasets 
+2. Modify the lines in train.py from Line 5 [links](https://github.com/iCVTEAM/LRT/blob/3f2cd18cd4f3b812c1ccc872bfba3ff94bf15f61/train.py#L5)
+
+3. Modify the lines in the used dataset. For example,  from ImageNet dataset [links](https://github.com/iCVTEAM/LRT/blob/3f2cd18cd4f3b812c1ccc872bfba3ff94bf15f61/dataloader/imagenet100/ImageNet.py#L26)
+   
+5. unzip these datasets to your path 
 
 
 
