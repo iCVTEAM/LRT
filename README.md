@@ -58,7 +58,7 @@ epochs_new=30, lr_base=0.01, lr_new=0.02, schedule='Milestone', milestones=[20, 
 
 Step 3 For  mini_imagenet
 ```
-$python train.py -project base -dataset mini_imagenet -base_mode 'ft_cos' -new_mode 'ft_cos' -gamma 0.1 -lr_base 0.01 -lr_new 0.01 -decay 0.0005 -epochs_base 0 -epochs_new 20 -schedule Milestone -milestones 40 70  -temperature 16 -gpu 0,1
+$python train.py -project base -dataset mini_imagenet -base_mode 'ft_cos' -new_mode 'ft_cos' -gamma 0.1 -lr_base 0.01 -lr_new 0.01 (0.001 might be optional) -decay 0.0005 -epochs_base 100 -epochs_new 20 -schedule Milestone -milestones 40 70 -temperature 16 -gpu 5,7
 ```
 
 Step 4 For  ImageNet100 dataset or other datasets
